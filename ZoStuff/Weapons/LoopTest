@@ -1,0 +1,14 @@
+--most simple shit idk why you would ever need this
+time = 1 -- you can edit the time lmao
+_G.LoopEquip = true
+while _G.LoopEquip == true do -- while true fuck my ass
+    black = {"Katana"}
+    game.ReplicatedStorage.EquipWeapon:InvokeServer(unpack(black))
+    wait(time)
+    black = {"Naginata"}
+    game.ReplicatedStorage.EquipWeapon:InvokeServer(unpack(black))
+    wait(time)
+    black = {"Kanabo"}
+    game.ReplicatedStorage.EquipWeapon:InvokeServer(unpack(black))
+    wait(time)
+end
