@@ -1,2 +1,2 @@
 black = {"Kanabo"}
-game:GetService("ReplicatedStorage").EquipWeapon:InvokeServer(unpack(black))
+game.ReplicatedStorage.EquipWeapon:InvokeServer(unpack(black))
