@@ -1,2 +1,2 @@
-nigger = {"Katana"}
-game:GetService("ReplicatedStorage").EquipWeapon:InvokeServer(unpack(nigger))
+black = {"Katana"}
+game.ReplicatedStorage.EquipWeapon:InvokeServer(unpack(black))
