@@ -1,2 +1,2 @@
-men = {"Naginata"}
-game:GetService("ReplicatedStorage").EquipWeapon:InvokeServer(unpack(men))
+black = {"Naginata"}
+game.ReplicatedStorage.EquipWeapon:InvokeServer(unpack(black))
