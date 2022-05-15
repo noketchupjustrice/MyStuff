@@ -1,6 +1,6 @@
---Auto Leave Game When Moderator Or Higher Rank Joins 
---Players Updates As Of 5/14/2022
---The Most Unnecessary Stuff Needed But I Was Bored
+--Game Auto Leaver
+-- You Can Delete These And Change Them | This Is For The Game "ZOぞ" https://www.roblox.com/games/6678877691/ZO-MOBILE-V2
+
 Player1 = "@JoyfuINeko"
 Player2 = "@dominogaming2006"
 Player3 = "@trvendi"
@@ -21,6 +21,7 @@ Player17 = "@iiZeKKie"
 Player18 = "@FFoundationSpiderMan"
 Player19 = "@spegattii"
 Player20 = "@TamperedReality"
+
 --Ranks
 JoyfuINekosRank = "Moderators"
 dominogaming2006sRank = "Moderators"
@@ -42,7 +43,7 @@ iiZeKKiesRank = "Management"
 FFoundationSpiderMansRank = "Management"
 spegattiisRank = "Management"
 TamperedRealitysRank = "Owner"
---End
+
 while true do
     if game.Players.JoyfuINeko then
         game.Players.LocalPlayer:Kick(
