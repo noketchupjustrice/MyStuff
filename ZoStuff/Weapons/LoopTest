@@ -1,5 +1,5 @@
 --most simple shit idk why you would ever need this
-time = 1 -- you can edit the time lmao
+time = 1 -- you can edit the time lmao (put it to 0 for free robux 😱)
 _G.LoopEquip = true
 while _G.LoopEquip == true do -- while true fuck my ass
     black = {"Katana"}
