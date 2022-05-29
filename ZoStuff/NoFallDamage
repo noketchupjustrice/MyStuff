@@ -1,0 +1,9 @@
+--//Idk Why This Works But Ye :3
+--Turn On
+game.Players.LocalPlayer.Character.Humanoid:SetStateEnabled("Seated", false)
+game.Players.LocalPlayer.Character.Humanoid.Sit = true
+
+--Turn Off
+game.Players.LocalPlayer.Character.Humanoid:SetStateEnabled("Seated", true)
+game.Players.LocalPlayer.Character.Humanoid.Sit = false
+
