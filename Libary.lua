@@ -223,7 +223,7 @@ end
 
 notifs:message({
     Title = 'Hat Lib loaded :3';
-    Description = 'Made by topit';
+    Description = 'UwU';
     Length = 3;
     Accept = {
         Text = 'Ok';
