@@ -1,4 +1,4 @@
-local notifs = loadstring(game:HttpGet(('https://raw.githubusercontent.com/noketchupjustrice/MyStuff/Notifications.lua')))()
+local notifs = loadstring(game:HttpGet(('https://raw.githubusercontent.com/noketchupjustrice/MyStuff/main/Noti.lua')))()
 
 
 local vec3, cfn, ins, rem = Vector3.new, CFrame.new, table.insert, table.remove
