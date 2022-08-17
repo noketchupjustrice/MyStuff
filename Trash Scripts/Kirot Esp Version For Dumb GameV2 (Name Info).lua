@@ -221,7 +221,7 @@ function boxBase:Update()
 
     if ESP.Names then
         local TagPos, Vis5 = WorldToViewportPoint(cam, locs.TagPos.p)
-        local Health = self.Components.Humanoid.Health
+        local Health = self.Name.Character.Humanoid.Health
         if Vis5 then
             self.Components.Name.Visible = true
             self.Components.Name.Position = Vector2.new(TagPos.X, TagPos.Y)
