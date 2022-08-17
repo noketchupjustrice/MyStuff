@@ -193,7 +193,7 @@ function boxBase:Update()
         TopRight = cf * ESP.BoxShift * CFrame.new(-size.X/2,size.Y/2,0),
         BottomLeft = cf * ESP.BoxShift * CFrame.new(size.X/2,-size.Y/2,0),
         BottomRight = cf * ESP.BoxShift * CFrame.new(-size.X/2,-size.Y/2,0),
-        TagPos = cf * ESP.BoxShift * CFrame.new(0,size.Y/5,0),
+        TagPos = cf * ESP.BoxShift * CFrame.new(0,size.Y/10,0),
         Torso = cf * ESP.BoxShift
     }
 
