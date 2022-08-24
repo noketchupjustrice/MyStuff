@@ -1,3 +1,4 @@
+
 local rs = game:GetService("RunService")
 local ts = game:GetService("TweenService")
 
@@ -76,7 +77,7 @@ local notifications = {
             Icon = Color3.fromRGB(255, 255, 255),
             Text = Color3.fromRGB(255, 255, 255),
             SecondaryText = Color3.fromRGB(200, 200, 200),
-            Accept = Color3.fromRGB(60, 40, 200),
+            Accept = Color3.fromRGB(165, 42, 42),
             Dismiss = Color3.fromRGB(60, 60, 65)
         }
     },
