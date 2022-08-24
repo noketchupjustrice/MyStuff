@@ -75,8 +75,8 @@ local notifications = {
             Main = Color3.fromRGB(40, 40, 45),
             Secondary = Color3.fromRGB(30, 30, 35),
             Icon = Color3.fromRGB(165, 42, 42),
-            Text = Color3.fromRGB(165, 0, 42),
-            SecondaryText = Color3.fromRGB(200, 200, 200),
+            Text = Color3.fromRGB(165, 40, 42),
+            SecondaryText = Color3.fromRGB(165, 42, 42),
             Accept = Color3.fromRGB(165, 42, 42),
             Dismiss = Color3.fromRGB(60, 60, 65)
         }
