@@ -69,9 +69,9 @@ local gui =
 )
 
 local notifications = {
-    theme = "Red",
+    theme = "dark",
     colorSchemes = {
-        Red = {
+        dark = {
             Main = Color3.fromRGB(40, 40, 45),
             Secondary = Color3.fromRGB(30, 30, 35),
             Icon = Color3.fromRGB(165, 42, 42),
