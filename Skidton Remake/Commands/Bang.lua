@@ -6,7 +6,7 @@ function R15Rigtype(Player) -- Function To Detirmine If The LocalPlayer Is In R1
 	end
 end
 
-local Target = game.Players['kingsmen22'] -- Target Here You Can Use The GetTarget Functoin In The Kill At |  https://github.com/noketchupjustrice/MyStuff/blob/main/Skidton%20Remake/Commands/Kill.lua
+local Target = game.Players['fawedawfawfawfwa'] -- Target Here You Can Use The GetTarget Functoin In The Kill At |  https://github.com/noketchupjustrice/MyStuff/blob/main/Skidton%20Remake/Commands/Kill.lua
 
 BangAnimation = Instance.new("Animation") -- Makes A New Animation
 
