@@ -1,4 +1,5 @@
 -- noketchupjustrice#3666 | InfiniteYield For The Animations Im Too Lazy
+--READ | Protons Version Of "Bang" Used Some Patched Method Of Bringing Without Removing Your Humanoid Which Is Patched (At Least The Leaked Version) And Used GripPos To Make Them Look Bent Over | So This Is Just A Regular Bang
 function R15Rigtype(Player) -- Function To Detirmine If The LocalPlayer Is In R15 Or R6
 	if Player.Character:FindFirstChildOfClass("Humanoid").RigType == Enum.HumanoidRigType.R15 then
 		return true
