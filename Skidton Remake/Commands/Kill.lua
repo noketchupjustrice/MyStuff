@@ -20,7 +20,7 @@ if FastKill then
     wait(game.Players.RespawnTime - 0.1)
 end
 
-local Target = GetPlayer("kingsmen22") -- Target Name Here (Can Be Shortened)
+local Target = GetPlayer("fawedawfawfawfwa") -- Target Name Here (Can Be Shortened)
 game:GetService("Players").LocalPlayer.Character.Humanoid:UnequipTools() -- Unequip Tools Before Executing Because Some People Are Dumb
 local OldCFrame = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame -- Saves Our Old CFrame Position
 local ClonedHumanoid = game:GetService("Players").LocalPlayer.Character.Humanoid:Clone() -- Clones Humanoid
