@@ -11,3 +11,6 @@ game.Players.LocalPlayer.Character.Humanoid.HipHeight = 5 -- Change To Any Value
 
 --Jump CMD
 game.Players.LocalPlayer.Character.Humanoid.Jump = true
+
+--To CMD
+game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(Target.Head.CFrame) -- Use GetPlayer Func From Kill Or Bring
