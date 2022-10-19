@@ -7,6 +7,7 @@
 --Comparison Between  Reweld Rescale - https://github.com/noketchupjustrice/MyStuff/blob/main/ActualGoodStuff/Releases/ReweldHatRescale.png | Normal Hat Rescale - https://github.com/noketchupjustrice/MyStuff/blob/main/ActualGoodStuff/Releases/NormalHatRescale.PNG
 
 -- This Supports Any Rthro Hat, Shoulder, Neck, Front, Back, And Waist Accessorys That Are In Rhtro Bundles
+-- Here Are Some Examples | Axe From -https://www.roblox.com/bundles/501/Oinan-Thickhoof | Staff From - https://www.roblox.com/bundles/492/Erisyphia | Foil/Wings From -https://www.roblox.com/bundles/505/Kara-Lye
 --This Rescale Can Vary In Size Depending On The Mesh Of The Accessory
 
 --Simply Wear Any Rthro Accessory And Execute It Will Automatically Rescale It For You
