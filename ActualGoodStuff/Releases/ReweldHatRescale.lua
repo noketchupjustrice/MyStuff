@@ -1,4 +1,4 @@
---Delete The Comments If Youd Like Theyre Just There To Explain Some Things And How This Works Plus Some Comparisons Otherwise Leave Them Here
+--Delete The Comments If Youd Like Theyre Just There To Explain Some Things And How This Works Plus Some Comparisons
 -- Either First Or One Of The First To Discover This Back Months Ago Just Don't Want People Claiming This As Theirs :)
 -- Gave This Script Or Concept Of How It Works And What You Can Do To Make It (You Know Who You Are.)
 
