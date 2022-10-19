@@ -8,7 +8,8 @@
 
 -- This Supports Any Rthro Hat, Shoulder, Neck, Front, Back, And Waist Accessorys That Are In Rhtro Bundles
 -- Here Are Some Examples | Axe From -https://www.roblox.com/bundles/501/Oinan-Thickhoof | Staff From - https://www.roblox.com/bundles/492/Erisyphia | Foil/Wings From -https://www.roblox.com/bundles/505/Kara-Lye
---This Rescale Can Vary In Size Depending On The Mesh Of The Accessory
+-- This Rescale Can Vary In Size Depending On The Mesh Of The Accessory
+-- Yes, This Supports Multiple Rthro Hats Being Worn At Once
 
 --Simply Wear Any Rthro Accessory And Execute It Will Automatically Rescale It For You
 
