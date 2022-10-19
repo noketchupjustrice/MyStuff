@@ -2,7 +2,7 @@
 -- Either First Or One Of The First To Discover This Back Months Ago Just Don't Want People Claiming This As Theirs :)
 -- Gave This Script Or Concept Of How It Works And What You Can Do To Make It (You Know Who You Are.)
 
--- noketchupjustrice#3666 / fawedawfawfawfwa
+-- noketchupjustrice#3666 / fawedawfawfawfwa | Credits For This Guy??!?!?!?! No I Must Delete Them Because I Am A Huge Skid!!!!/!111!11!!!
 
 --Comparison Between  Reweld Rescale - https://github.com/noketchupjustrice/MyStuff/blob/main/ActualGoodStuff/Releases/ReweldHatRescale.png | Normal Hat Rescale - https://github.com/noketchupjustrice/MyStuff/blob/main/ActualGoodStuff/Releases/NormalHatRescale.PNG
 
