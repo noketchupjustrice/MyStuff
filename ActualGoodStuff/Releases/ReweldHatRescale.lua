@@ -1,9 +1,12 @@
--- Found this back months ago just dont want people claiming this :)
--- Gave this script or the concept of how it works to a few people (you know who you are)
+-- Either First Or One Of The First To Discover This Back Months Ago Just Don't Want People Claiming This As Theirs :)
+-- Gave This Script Or Concept Of How It Works And What You Can Do To Make It (You Know Who You Are.)
 
 -- noketchupjustrice#3666 / fawedawfawfawfwa
 
 --Comparison Between  Reweld Rescale - https://github.com/noketchupjustrice/MyStuff/blob/main/ActualGoodStuff/Releases/ReweldHatRescale.png | Normal Hat Rescale - https://github.com/noketchupjustrice/MyStuff/blob/main/ActualGoodStuff/Releases/NormalHatRescale.PNG
+
+-- This Supports Any Rthro Hat, Shoulder, Neck, Front, Back, And Waist Accessorys That Are In Rhtro Bundles
+--This Rescale Can Vary In Size Depending On The Mesh Of The Accessory
 
 --Most Of The Rthro Hats That Go Onto The Characters Hands Have An Attachment Attached To The Hand
 local Character = game:GetService("Players").LocalPlayer.Character
